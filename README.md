@@ -277,4 +277,21 @@ extract biomedical terminologies. There are similar tools like CTakes which also
 extract concepts. Metamap and CTakes gives comparable results as shown in previous research.
 Therefore, we selected Metamap for extracting concepts.
 
+### Screenshots
 
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-22%20at%208.53.32%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-22%20at%209.04.10%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-22%20at%209.07.32%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-22%20at%209.09.08%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-22%20at%209.10.25%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%202.03.05%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%202.11.41%20PM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%209.11.44%20AM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%209.12.02%20AM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%209.12.23%20AM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%209.12.44%20AM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%209.13.29%20AM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/Screen%20Shot%202019-04-23%20at%209.15.47%20AM.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/screenshot-multiple-instance-run-2.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/screenshot-mutiple-instance-run-1.png)
+![](https://github.com/SandeepNadella/healthcare-data-mining/blob/master/Screenshots/screenshot-run-multiple-systems.JPG)
